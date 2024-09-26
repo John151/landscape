@@ -10000,6 +10000,14 @@ landscape:
             twitter: https://twitter.com/aternity
             crunchbase: https://www.crunchbase.com/organization/riverbed-technology
           - item:
+            name: Azure Machine Learning
+            description: >-
+              Azure Machine Learning is a comprehensive machine learning platform that supports language model fine-tuning and deployment.
+            homepage_url: https://azure.microsoft.com/en-us/products/machine-learning
+            logo: azure-machine-learning.svg
+            twitter: https://twitter.com/azure
+            crunchbase: https://www.crunchbase.com/organization/microsoft
+          - item:
             name: Azure Monitor
             description: >-
               Collect, analyze, and act on telemetry data from your Azure and on-premises environments. Azure Monitor helps you maximize performance and availability of your applications and proactively identify problems in seconds.
